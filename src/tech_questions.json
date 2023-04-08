@@ -1,0 +1,201 @@
+[
+
+  {
+    "question": "What is the main purpose of a computer?",
+    "image_path": " ",
+    "answer_a": "A)To play games",
+    "answer_b": "B)To make phone calls",
+    "answer_c": "C)To perform tasks and solve problems",
+    "answer_d": "D)To watch TV",
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the name of the icon that represents the Internet on a computer screen?",
+    "image_path": " ",
+    "answer_a": "A) A globe",
+    "answer_b": "B) A book",
+    "answer_c": "C) A key",
+    "answer_d": "D) A pencil",
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is a computer virus?",
+    "image_path": " ",
+    "answer_a": "A) A physical device",
+    "answer_b": "B) A type of computer program that can damage files and software",
+    "answer_c": "C) A way to play video games",
+    "answer_d": "D) A type of computer screen",
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which of the following is not an example of a mobile device?",
+    "image_path": " ",
+    "answer_a": "A) Smartwatch",
+    "answer_b": "B) Smartphone",
+    "answer_c": "C) Television",
+    "answer_d": "D) Tablet",
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which of the following is an example of a search engine?",
+    "image_path": " ",
+    "answer_a": "A) Chrome",
+    "answer_b": "B) Instagram",
+    "answer_c": "C) Minecraft",
+    "answer_d": "D) Snapchat",
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which of the following is not a type of computer?",
+    "image_path": " ",
+    "answer_a": "A) Desktop",
+    "answer_b": "B) Laptop",
+    "answer_c": "C) Smartphone",
+    "answer_d": "D) Tablet",
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the primary purpose of a printer?",
+    "image_path": " ",
+    "answer_a": "A) To make phone calls",
+    "answer_b": "B) To browse the internet",
+    "answer_c": "C) To print documents and photos",
+    "answer_d": "D) To watch movies",
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the purpose of a computer mouse?",
+    "image_path": " ",
+    "answer_a": "A) To clean the computer screen",
+    "answer_b": "B) To play games",
+    "answer_c": "C) To navigate on the computer screen",
+    "answer_d": "D) To make phone calls",
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is a website?",
+    "image_path": " ",
+    "answer_a": "A) A physical device",
+    "answer_b": "B) A type of computer program",
+    "answer_c": "C) A collection of related web pages that are accessed through the Internet",
+    "answer_d": "D) A type of mouse",
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which of the following is a social media platform?",
+    "image_path": " ",
+    "answer_a": "A) Google",
+    "answer_b": "B) Facebook",
+    "answer_c": "C) Netflix",
+    "answer_d": "D) Amazon",
+    "correct_answer": "B"
+  },
+  {
+    "question": "A smartphone is a type of _________ device.",
+    "image_path": " ",
+    "answer_a": "A) Laptop",
+    "answer_b": "B) Mobile",
+    "answer_c": "C) Television",
+    "answer_d": "D) Desktop",
+    "correct_answer": "B"
+  },
+  {
+    "question": "To open a program or file, you must first ________ on its icon.",
+    "image_path": " ",
+    "answer_a": "A) Right-click",
+    "answer_b": "B) Double-click",
+    "answer_c": "C) Click and drag",
+    "answer_d": "D) Single-click",
+    "correct_answer": "B"
+  },
+  {
+    "question": "The ________ key is used to make capital letters.",
+    "image_path": " ",
+    "answer_a": "A) Enter",
+    "answer_b": "B) Delete",
+    "answer_c": "C) Shift",
+    "answer_d": "D) Tab",
+    "correct_answer": "C"
+  },
+  {
+    "question": "A computer ________ is a way to store and organize files and folders.",
+    "image_path": " ",
+    "answer_a": "A) Mouse",
+    "answer_b": "B) Screen",
+    "answer_c": "C) Keyboard",
+    "answer_d": "D) File system",
+    "correct_answer": "D"
+  },
+  {
+    "question": "A keyboard and mouse are examples of computer __________.",
+    "image_path": " ",
+    "answer_a": "A) Hardware",
+    "answer_b": "B) Software",
+    "answer_c": "C) Operating system",
+    "answer_d": "D) File system",
+    "correct_answer": "A"
+  },
+  {
+    "question": "The name of the application used to browse the internet is called a __________.",
+    "image_path": " ",
+    "answer_a": "A) Word Processor",
+    "answer_b": "B) Spreadsheet",
+    "answer_c": "C) Internet Browser",
+    "answer_d": "D) Email Client",
+    "correct_answer": "C"
+  },
+  {
+    "question": "A computer __________ is a program designed to perform a specific task.",
+    "image_path": " ",
+    "answer_a": "A) File system",
+    "answer_b": "B) Operating system",
+    "answer_c": "C) Application",
+    "answer_d": "D) Hardware",
+    "correct_answer": "C"
+  },
+  {
+    "question": "To close a window or program, you must click on the __________ button.",
+    "image_path": " ",
+    "answer_a": "A) Maximize",
+    "answer_b": "B) Minimize",
+    "answer_c": "C) Close",
+    "answer_d": "D) Exit",
+    "correct_answer": "C"
+  },
+  {
+    "question": "An email address typically contains a __________ symbol.",
+    "image_path": " ",
+    "answer_a": "A) @",
+    "answer_b": "B) #",
+    "answer_c": "C) $",
+    "answer_d": "D) %",
+    "correct_answer": "A"
+  },
+  {
+    "question": "When you type a wrong letter, you can use the __________ key to delete it.",
+    "image_path": " ",
+    "answer_a": "A) Enter",
+    "answer_b": "B) Tab",
+    "answer_c": "C) Escape",
+    "answer_d": "D) Delete",
+    "correct_answer": "D"
+  },
+  {
+    "question": "Can you identify the below device?",
+    "image_path": "C:\\Users\\yamini\\Downloads\\monitor (1).jpg",
+    "answer_a": "A) Monitor",
+    "answer_b": "B) Keyboard",
+    "answer_c": "C) CPU",
+    "answer_d": "D) Printer",
+    "correct_answer": "A"
+  },
+  {
+    "question": "The below device is mainly used for",
+    "image_path": "C:\\Users\\yamini\\Downloads\\printer (1).jpg",
+    "answer_a": "A) Writing",
+    "answer_b": "B) Typing",
+    "answer_c": "C) Scanning",
+    "answer_d": "D) Printing",
+    "correct_answer": "D"
+  }
+  ]

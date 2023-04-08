@@ -1,0 +1,160 @@
+[
+    {
+        "question": "Which animal has black and white stripes?",
+        "answer_a": "A) Cheetah",
+        "answer_b": "B) Zebra",
+        "answer_c": "C) Giraffe",
+        "answer_d": "D) Panda",
+        "correct_answer": "B"
+        },
+        {
+        "question": "Which animal lives in water and breathes through gills?",
+        "answer_a": "A) Fish",
+        "answer_b": "B) Crocodile",
+        "answer_c": "C) Dolphin",
+        "answer_d": "D) Kangaroo",
+        "correct_answer": "A"
+        },
+        {
+        "question": "Which bird can fly but cannot walk?",
+        "answer_a": "A) Eagle",
+        "answer_b": "B) Penguin",
+        "answer_c": "C) Flamingo",
+        "answer_d": "D) Ostrich",
+        "correct_answer": "B"
+        },
+        {
+        "question": "What do you call a baby cow?",
+        "answer_a": "A) Calf",
+        "answer_b": "B) Foal",
+        "answer_c": "C) Piglet",
+        "answer_d": "D) Kitten",
+        "correct_answer": "A"
+        },
+        {
+        "question": "Which animal has a long trunk?",
+        "answer_a": "A) Monkey",
+        "answer_b": "B) Elephant",
+        "answer_c": "C) Hippopotamus",
+        "answer_d": "D) Tiger",
+        "correct_answer": "B"
+        },
+        {
+        "question": "Which animal is known for its long neck?",
+        "answer_a": "A) Horse",
+        "answer_b": "B) Giraffe",
+        "answer_c": "C) Zebra",
+        "answer_d": "D) Kangaroo",
+        "correct_answer": "B"
+        },
+        {
+            "question": "Which animal can change its color to blend with its surroundings?",
+            "answer_a": "A) Chameleon",
+            "answer_b": "B) Lion",
+            "answer_c": "C) Gorilla",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal is known for its spots?",
+            "answer_a": "A) Cheetah",
+            "answer_b": "B) Lion",
+            "answer_c": "C) Gorilla",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal has a long sticky tongue to catch insects?",
+            "answer_a": "A) Anteater",
+            "answer_b": "B) Kangaroo",
+            "answer_c": "C) Sloth",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "What do you call a group of lions?",
+            "answer_a": "A) Pack",
+            "answer_b": "B) Flock",
+            "answer_c": "C) Pride",
+            "correct_answer": "C"
+            },
+            
+            {
+            "question": "Which animal has the ability to regenerate its body parts?",
+            "answer_a": "A) Lizard",
+            "answer_b": "B) Snake",
+            "answer_c": "C) Crab",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which bird is known for its colorful feathers?",
+            "answer_a": "A) Peacock",
+            "answer_b": "B) Sparrow",
+            "answer_c": "C) Ostrich",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal is known for hibernating during winter?",
+            "answer_a": "A) Bear",
+            "answer_b": "B) Rabbit",
+            "answer_c": "C) Deer",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal has a pouch to carry its young ones?",
+            "answer_a": "A) Kangaroo",
+            "answer_b": "B) Gorilla",
+            "answer_c": "C) Hippopotamus",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal is the fastest land animal?",
+            "answer_a": "A) Cheetah",
+            "answer_b": "B) Horse",
+            "answer_c": "C) Elephant",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal has the longest lifespan?",
+            "answer_a": "A) Elephant",
+            "answer_b": "B) Gorilla",
+            "answer_c": "C) Lion",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal has the ability to fly without flapping its wings?",
+            "answer_a": "A) Pigeon",
+            "answer_b": "B) Hummingbird",
+            "answer_c": "C) Bat",
+            "correct_answer": "B"
+            },
+            
+            {
+            "question": "Which animal has stripes on its legs?",
+            "answer_a": "A) Zebra",
+            "answer_b": "B) Giraffe",
+            "answer_c": "C) Horse",
+            "correct_answer": "A"
+            },
+            
+            {
+                "question": "Which animal is known for its loud roar?",
+                "answer_a": "A) Gorilla",
+                "answer_b": "B) Lion",
+                "answer_c": "C) Elephant",
+                "correct_answer": "B"
+                }
+
+        
+        
+        
+        
+        
+  
+    ]

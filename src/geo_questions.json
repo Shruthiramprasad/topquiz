@@ -1,0 +1,227 @@
+[
+
+  {
+    "question": "Which continent is the largest by land area?",
+    "image_path": " ",
+    "answer_a": "A) Africa",
+    "answer_b": "B) Asia",
+    "answer_c": "C) Europe",
+    "answer_d": "D) North America",
+    "correct_answer": "B"
+  },
+  {
+    "question": "The Amazon River flows through which continent?",
+    "image_path": " ",
+    "answer_a": "A) Africa",
+    "answer_b": "B) South America",
+    "answer_c": "C) Europe",
+    "answer_d": "D) Asia",
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which ocean is the largest by area?",
+    "image_path": " ",
+    "answer_a": "A) Pacific Ocean",
+    "answer_b": "B) Indian Ocean",
+    "answer_c": "C) Atlantic Ocean",
+    "answer_d": "D) Southern Ocean",
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which country is known for being the world's largest producer of coffee?",
+    "image_path": " ",
+    "answer_a": "A) Brazil",
+    "answer_b": "B) Colombia",
+    "answer_c": "C) Ethiopia",
+    "answer_d": "D) Vietnam",
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "image_path": " ",
+    "answer_a": "A) China",
+    "answer_b": "B) Japan",
+    "answer_c": "C) Thailand",
+    "answer_d": "D) South Korea",
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which desert is located in Africa?",
+    "image_path": " ",
+    "answer_a": "A) Mojave Desert",
+    "answer_b": "B) Sahara Desert",
+    "answer_c": "C) Gobi Desert",
+    "answer_d": "D) Atacama Desert",
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which mountain range runs through South America?",
+    "image_path": " ",
+    "answer_a": "A) Rocky Mountains",
+    "answer_b": "B) Appalachian Mountains",
+    "answer_c": "C) Andes Mountains",
+    "answer_d": "D) Himalayan Mountains",
+    "correct_answer": "C"
+  },
+  {
+    "question": "The Great Barrier Reef is located off the coast of which country?",
+    "image_path": " ",
+    "answer_a": "A) Australia",
+    "answer_b": "B) New Zealand",
+    "answer_c": "C) Indonesia",
+    "answer_d": "D) Fiji",
+    "correct_answer": "A"
+  },
+  {
+    "question": "The capital city of Canada is:",
+    "image_path": " ",
+    "answer_a": "A) Vancouver",
+    "answer_b": "B) Ottawa",
+    "answer_c": "C) Toronto",
+    "answer_d": "D) Montreal",
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which country is known for its famous Pyramids?",
+    "image_path": " ",
+    "answer_a": "A) Egypt",
+    "answer_b": "B) Peru",
+    "answer_c": "C) Italy",
+    "answer_d": "D) Mexico",
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "image_path": " ",
+    "answer_a": "A)Mount Kilimanjaro",
+    "answer_b": "B)Mount Everest",
+    "answer_c": "C)Mount Fuji",
+    "answer_d": "D)Mount Denali",
+    "correct_answer": "B"
+  },
+
+
+
+  {
+    "question": "The Nile River is located on which continent?",
+    "image_path": " ",
+    "answer_a": "A)Africa",
+    "answer_b": "B)Asia",
+    "answer_c": "C)Europe",
+    "answer_d": "D)North America",
+    "correct_answer": "A"
+  },
+
+  {
+    "question": "Which ocean is the smallest and shallowest?",
+    "image_path": " ",
+    "answer_a": "A)Indian Ocean",
+    "answer_b": "B)Arctic Ocean",
+    "answer_c": "C)Southern Ocean",
+    "answer_d": "D)Atlantic Ocean",
+    "correct_answer": "C"
+  },
+
+
+  {
+    "question": "Which country is known for its tulips, windmills, and wooden shoes?",
+    "image_path": " ",
+    "answer_a": "A)Germany",
+    "answer_b": "B)France",
+    "answer_c": "C)The Netherlands",
+    "answer_d": "D)Switzerland",
+    "correct_answer": "C"
+  },
+
+
+  {
+    "question": "Which country is the largest by area?",
+    "image_path": " ",
+    "answer_a": "A)Russia",
+    "answer_b": "B)China",
+    "answer_c": "C)Canada",
+    "answer_d": "D)United States",
+    "correct_answer": "A"
+  },
+
+
+  {
+    "question": "Which continent has the highest population?",
+    "image_path": " ",
+    "answer_a": "A)Asia",
+    "answer_b": "B)Africa",
+    "answer_c": "C)Europe",
+    "answer_d": "D)North America",
+    "correct_answer": "A"
+  },
+
+
+  {
+    "question": "The Great Wall of China is located in which country?",
+    "image_path": " ",
+    "answer_a": "A)Japan",
+    "answer_b": "B)India",
+    "answer_c": "C)China",
+    "answer_d": "D)South Korea",
+    "correct_answer": "C"
+  },
+
+
+  {
+    "question": "What is the smallest continent by land area?",
+    "image_path": " ",
+    "answer_a": "A)Europe",
+    "answer_b": "B)Africa",
+    "answer_c": "C)Australia",
+    "answer_d": "D)Antarctica",
+    "correct_answer": "C"
+  },
+
+
+  {
+    "question": "Which sea is located between Europe and Africa?",
+    "image_path": " ",
+    "answer_a": "A)Mediterranean Sea",
+    "answer_b": "B)Caribbean Sea",
+    "answer_c": "C)Red Sea",
+    "answer_d": "D)Black Sea",
+    "correct_answer": "A"
+  },
+
+
+  {
+    "question": "Which country is the only one to cover an entire continent?",
+    "image_path": " ",
+    "answer_a": "A)Australia",
+    "answer_b": "B)Russia",
+    "answer_c": "C)United States",
+    "answer_d": "D)Brazil",
+    "correct_answer": "A"},
+
+  {
+    "question": "What is this natural calamity called?",
+    "image_path": "C:\\Users\\yamini\\Downloads\\volcano (1).jpg",
+    "answer_a": "A)Volcanic Eruption",
+    "answer_b": "B)Drought",
+    "answer_c": "C)Flood",
+    "answer_d": "D)EarthQuake",
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which country is this??",
+    "image_path": "C:\\Users\\yamini\\Downloads\\usmap.png",
+    "answer_a": "A)Albania",
+    "answer_b": "B)South Korea",
+    "answer_c": "C)Mali",
+    "answer_d": "D)United States",
+    "correct_answer": "A"
+  }
+
+
+
+
+]
+        
+        
+        
+        

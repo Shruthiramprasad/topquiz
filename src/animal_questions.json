@@ -1,0 +1,214 @@
+[
+    {
+        "question": "Which animal has black and white stripes?",
+        "image_path": " ",
+        "answer_a": "A) Cheetah",
+        "answer_b": "B) Zebra",
+        "answer_c": "C) Giraffe",
+        "answer_d": "D) Panda",
+        "correct_answer": "B"
+        },
+        {
+        "question": "Which animal lives in water and breathes through gills?",
+            "image_path": " ",
+        "answer_a": "A) Fish",
+        "answer_b": "B) Crocodile",
+        "answer_c": "C) Dolphin",
+        "answer_d": "D) Kangaroo",
+        "correct_answer": "A"
+        },
+        {
+        "question": "Which bird can fly but cannot walk?",
+            "image_path": " ",
+        "answer_a": "A) Eagle",
+        "answer_b": "B) Penguin",
+        "answer_c": "C) Flamingo",
+        "answer_d": "D) Ostrich",
+        "correct_answer": "B"
+        },
+        {
+        "question": "What do you call a baby cow?",
+            "image_path": " ",
+        "answer_a": "A) Calf",
+        "answer_b": "B) Foal",
+        "answer_c": "C) Piglet",
+        "answer_d": "D) Kitten",
+        "correct_answer": "A"
+        },
+        {
+        "question": "Which animal has a long trunk?",
+            "image_path": " ",
+        "answer_a": "A) Monkey",
+        "answer_b": "B) Elephant",
+        "answer_c": "C) Hippopotamus",
+        "answer_d": "D) Tiger",
+        "correct_answer": "B"
+        },
+        {
+        "question": "Which animal is known for its long neck?",
+            "image_path": " ",
+        "answer_a": "A) Horse",
+        "answer_b": "B) Giraffe",
+        "answer_c": "C) Zebra",
+        "answer_d": "D) Kangaroo",
+        "correct_answer": "B"
+        },
+        {
+            "question": "Which animal can change its color to blend with its surroundings?",
+            "image_path": " ",
+            "answer_a": "A) Chameleon",
+            "answer_b": "B) Lion",
+            "answer_c": "C) Gorilla",
+            "answer_d": "D) Peacock",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal is known for its spots?",
+                "image_path": " ",
+            "answer_a": "A) Cheetah",
+            "answer_b": "B) Lion",
+            "answer_c": "C) Gorilla",
+                "answer_d": "D) Bobcat",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal has a long sticky tongue to catch insects?",
+                "image_path": " ",
+            "answer_a": "A) Anteater",
+            "answer_b": "B) Kangaroo",
+            "answer_c": "C) Sloth",
+                "answer_d": "D) Bug",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "What do you call a group of lions?",
+                "image_path": " ",
+            "answer_a": "A) Pack",
+            "answer_b": "B) Flock",
+            "answer_c": "C) Pride",
+                "answer_d": "D) Colony",
+            "correct_answer": "C"
+            },
+            
+            {
+            "question": "Which animal has the ability to regenerate its body parts?",
+                "image_path": " ",
+            "answer_a": "A) Lizard",
+            "answer_b": "B) Snake",
+            "answer_c": "C) Crab",
+                "answer_d": "D) Cat",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which bird is known for its colorful feathers?",
+                "image_path": " ",
+            "answer_a": "A) Peacock",
+            "answer_b": "B) Sparrow",
+            "answer_c": "C) Ostrich",
+                "answer_d": "D) Parrot",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal is known for hibernating during winter?",
+                "image_path": " ",
+            "answer_a": "A) Bear",
+            "answer_b": "B) Rabbit",
+            "answer_c": "C) Deer",
+                "answer_d": "D) Squirrel",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal has a pouch to carry its young ones?",
+                "image_path": " ",
+            "answer_a": "A) Kangaroo",
+            "answer_b": "B) Gorilla",
+            "answer_c": "C) Hippopotamus",
+                "answer_d": "D) Fish",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal is the fastest land animal?",
+                "image_path": " ",
+            "answer_a": "A) Cheetah",
+            "answer_b": "B) Horse",
+            "answer_c": "C) Elephant",
+                "answer_d": "D) Tiger",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal has the longest lifespan?",
+                "image_path": " ",
+            "answer_a": "A) Elephant",
+            "answer_b": "B) Gorilla",
+            "answer_c": "C) Lion",
+                "answer_d": "D) Dog",
+            "correct_answer": "A"
+            },
+            
+            {
+            "question": "Which animal has the ability to fly without flapping its wings?",
+                "image_path": " ",
+            "answer_a": "A) Pigeon",
+            "answer_b": "B) Hummingbird",
+            "answer_c": "C) Bat",
+                "answer_d": "D) Parrot",
+            "correct_answer": "B"
+            },
+            
+            {
+            "question": "Which animal has stripes on its legs?",
+                "image_path": " ",
+            "answer_a": "A) Zebra",
+            "answer_b": "B) Giraffe",
+            "answer_c": "C) Horse",
+                "answer_d": "D)Cat",
+            "correct_answer": "A"
+            },
+            
+            {
+                "question": "Which animal is known for its loud roar?",
+                "image_path": " ",
+                "answer_a": "A) Gorilla",
+                "answer_b": "B) Lion",
+                "answer_c": "C) Elephant",
+                "answer_d": "D) Tiger",
+                "correct_answer": "B"
+                },
+
+    {
+        "question": "Can you identify the below animal?",
+        "image_path": "C:\\Users\\yamini\\Downloads\\lion (1).jpg",
+        "answer_a": "A) Gorilla",
+        "answer_b": "B) Lion",
+        "answer_c": "C) Elephant",
+        "answer_d": "D) Giraffe",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Can you identify the below animal?",
+        "image_path": "C:\\Users\\yamini\\Downloads\\imageedit_1_6997915876.jpg",
+        "answer_a": "A) Gorilla",
+        "answer_b": "B) Lion",
+        "answer_c": "C) Elephant",
+        "answer_d": "D) Cheetah",
+        "correct_answer": "C"
+    },
+    {
+        "question": "This Bird is the national bird of which country?",
+        "image_path": "C:\\Users\\yamini\\Downloads\\imageedit_3_6921801567.jpg",
+        "answer_a": "A) India",
+        "answer_b": "B) USA",
+        "answer_c": "C) China",
+        "answer_d": "D)Pakistan",
+        "correct_answer": "C"
+    }
+]
+
